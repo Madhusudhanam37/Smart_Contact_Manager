@@ -1,0 +1,30 @@
+body{
+	background-color: aqua;
+}
+
+.bg-primary{
+	background-color: #1aa4d6;
+}
+
+.banner{
+	width: 100%;
+	height: 93vh;
+	background:linear-gradient(rgba(0,0,0,.8),rgba(0,0,0,.8)),url(../img/scm-bg-1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: white;
+	
+}
+
+.my-card{
+	padding: 20px;
+	background: #FFFFFF;
+}
+
+.signbanner{
+	background: url(../img/scm-bg-rf-4.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 93vh;
+}
