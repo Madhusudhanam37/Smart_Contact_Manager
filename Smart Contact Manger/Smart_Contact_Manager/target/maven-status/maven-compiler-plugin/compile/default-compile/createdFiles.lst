@@ -1,0 +1,10 @@
+com\smart_contact_manager\helper\Message.class
+com\smart_contact_manager\config\CustomUserDetails.class
+com\smart_contact_manager\config\MyConfig.class
+com\smart_contact_manager\config\UserDetailsServiceImpl.class
+com\smart_contact_manager\controller\HomeController.class
+com\smart_contact_manager\SmartContactManagerApplication.class
+com\smart_contact_manager\entities\User.class
+com\smart_contact_manager\repo\UserRepository.class
+com\smart_contact_manager\controller\UserController.class
+com\smart_contact_manager\entities\Contact.class
